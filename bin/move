@@ -12,6 +12,8 @@ user_input = gets.strip
 
 input_to_index(user_input)
 
+move(display_board, input_to_index, board = "X")
+
 
 
 # Code your CLI Here
