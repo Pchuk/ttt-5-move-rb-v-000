@@ -14,6 +14,6 @@ index = input_to_index(user_input)
 
 move(board, index)
 
-display_board(move)
+display_board(board)
 
 # Code your CLI Here
